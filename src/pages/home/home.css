@@ -11,3 +11,7 @@
 h1 {
     font-size: 5vw; /* Font size will be 5% of the viewport width */
 }
+
+.buttons-container {
+  margin-top: 20px;
+}
