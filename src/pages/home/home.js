@@ -43,7 +43,7 @@ export function Home() {
             <div className="button-container">
             <LinkButton name="About" path="/About"/>
             <LinkButton name="Box" path="/Box"/>
-            <button className ="nav-button" onClick={handleAuth}>
+            <button className ="link-button" onClick={handleAuth}>
                 {isLoggedIn ? "Log Out" : "Log In"}
             </button>
 
