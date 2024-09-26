@@ -1,0 +1,158 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "name": "Inception",
+        "release_year": 2010,
+        "category": "Science Fiction",
+        "length": "148 minutes",
+        "director": "Christopher Nolan",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page", "Tom Hardy"]
+      },
+      {
+        "id": 2,
+        "name": "The Shawshank Redemption",
+        "release_year": 1994,
+        "category": "Drama",
+        "length": "142 minutes",
+        "director": "Frank Darabont",
+        "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton", "William Sadler"]
+      },
+      {
+        "id": 3,
+        "name": "The Godfather",
+        "release_year": 1972,
+        "category": "Crime",
+        "length": "175 minutes",
+        "director": "Francis Ford Coppola",
+        "actors": ["Marlon Brando", "Al Pacino", "James Caan", "Diane Keaton"]
+      },
+      {
+        "id": 4,
+        "name": "The Dark Knight",
+        "release_year": 2008,
+        "category": "Action",
+        "length": "152 minutes",
+        "director": "Christopher Nolan",
+        "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine"]
+      },
+      {
+        "id": 5,
+        "name": "Pulp Fiction",
+        "release_year": 1994,
+        "category": "Crime",
+        "length": "154 minutes",
+        "director": "Quentin Tarantino",
+        "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson", "Bruce Willis"]
+      },
+      {
+        "id": 6,
+        "name": "Memento",
+        "release_year": 2000,
+        "category": "Thriller",
+        "length": "113 minutes",
+        "director": "Christopher Nolan",
+        "actors": ["Guy Pearce", "Carrie-Anne Moss", "Joe Pantoliano"]
+      },
+      {
+        "id": 7,
+        "name": "The Prestige",
+        "release_year": 2006,
+        "category": "Mystery",
+        "length": "130 minutes",
+        "director": "Christopher Nolan",
+        "actors": ["Christian Bale", "Hugh Jackman", "Scarlett Johansson", "Michael Caine"]
+      },
+      {
+        "id": 8,
+        "name": "Catch Me If You Can",
+        "release_year": 2002,
+        "category": "Biography",
+        "length": "141 minutes",
+        "director": "Steven Spielberg",
+        "actors": ["Leonardo DiCaprio", "Tom Hanks", "Christopher Walken", "Amy Adams"]
+      },
+      {
+        "id": 9,
+        "name": "The Departed",
+        "release_year": 2006,
+        "category": "Crime",
+        "length": "151 minutes",
+        "director": "Martin Scorsese",
+        "actors": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson", "Mark Wahlberg"]
+      },
+      {
+        "id": 10,
+        "name": "Django Unchained",
+        "release_year": 2012,
+        "category": "Western",
+        "length": "165 minutes",
+        "director": "Quentin Tarantino",
+        "actors": ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio", "Kerry Washington"]
+      },
+      {
+        "id": 11,
+        "name": "Goodfellas",
+        "release_year": 1990,
+        "category": "Crime",
+        "length": "146 minutes",
+        "director": "Martin Scorsese",
+        "actors": ["Robert De Niro", "Ray Liotta", "Joe Pesci", "Lorraine Bracco"]
+      },
+      {
+        "id": 12,
+        "name": "Interstellar",
+        "release_year": 2014,
+        "category": "Science Fiction",
+        "length": "169 minutes",
+        "director": "Christopher Nolan",
+        "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain", "Michael Caine"]
+      },
+      {
+        "id": 13,
+        "name": "Fight Club",
+        "release_year": 1999,
+        "category": "Drama",
+        "length": "139 minutes",
+        "director": "David Fincher",
+        "actors": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter", "Meat Loaf"]
+      },
+      {
+        "id": 14,
+        "name": "Se7en",
+        "release_year": 1995,
+        "category": "Thriller",
+        "length": "127 minutes",
+        "director": "David Fincher",
+        "actors": ["Brad Pitt", "Morgan Freeman", "Gwyneth Paltrow", "Kevin Spacey"]
+      },
+      {
+        "id": 15,
+        "name": "The Matrix",
+        "release_year": 1999,
+        "category": "Science Fiction",
+        "length": "136 minutes",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss", "Hugo Weaving"]
+      },
+      {
+        "id": 16,
+        "name": "Forrest Gump",
+        "release_year": 1994,
+        "category": "Drama",
+        "length": "142 minutes",
+        "director": "Robert Zemeckis",
+        "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise", "Sally Field"]
+      },
+      {
+        "id": 17,
+        "name": "The Revenant",
+        "release_year": 2015,
+        "category": "Adventure",
+        "length": "156 minutes",
+        "director": "Alejandro González Iñárritu",
+        "actors": ["Leonardo DiCaprio", "Tom Hardy", "Domhnall Gleeson", "Will Poulter"]
+      }
+    ]
+  }
+  

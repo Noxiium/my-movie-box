@@ -1,0 +1,23 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "movie_box_ids": [101, 102]
+      },
+      {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob@example.com",
+        "movie_box_ids": [103, 104, 105]
+      },
+      {
+        "id": 3,
+        "name": "Charlie Davis",
+        "email": "charlie@example.com",
+        "movie_box_ids": [106, 107]
+      }
+    ]
+  }
+  
